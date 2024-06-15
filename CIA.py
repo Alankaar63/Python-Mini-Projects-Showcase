@@ -1,6 +1,6 @@
 import random
-list1 = ["Edward","Ethan"]
-list2 = ["Smith","Hunt"]
+list1 = ["Edward","Ethan","Benji","Sean","James"]
+list2 = ["Smith","Hunt","Dunn","Ambrose","Bond"]
 class CIA:
     def AgentName(self):
         self.first = random.choice(list1)
